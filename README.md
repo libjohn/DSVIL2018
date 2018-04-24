@@ -25,15 +25,15 @@ Because data transformations are crazy-fun awesome
 
 ### webscraping:  w/ webscraper.io  
 
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#5
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#5 
     - through slides
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#10
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#10 
 
 ### Data Cleaning:  Basic OpenRefine
 
-    - group demo / https://libjohn.github.io/openrefine/demonstration.html
+    - group demo / https://libjohn.github.io/openrefine/demonstration.html 
     - exercises:  https://libjohn.github.io/openrefine/start.html (1.1.3 through 1.5, and 1.7)
-    - GREL and regex:  https://libjohn.github.io/openrefine/grel.html
+    - GREL and regex:  https://libjohn.github.io/openrefine/grel.html 
 
 ### Data Cleaning:  Reconcilitation in OpenRefine
 
@@ -41,27 +41,27 @@ Because data transformations are crazy-fun awesome
 *** student needs google account
 *** student needs twitter account
 *** student needs twitter API keys ???
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#36
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#36 
     through
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#45
-    - ***jrl*** add NodeXL https://www.smrfoundation.org/nodexl/ ; $29/student/month : https://www.smrfoundation.org/license/
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#45 
+    - ***jrl*** add NodeXL https://www.smrfoundation.org/nodexl/ ; $29/student/month : https://www.smrfoundation.org/license/ 
 
 
-    - API and twitter:  http://www.johnlittle.info/project/custom/dsvil2017/slides.html#47
+    - API and twitter:  http://www.johnlittle.info/project/custom/dsvil2017/slides.html#47 
 
 ### Parsing HTML & JSON in OpenRefine (APIs)
 
-    - https://libjohn.github.io/openrefine/start.html#web-scraping
+    - https://libjohn.github.io/openrefine/start.html#web-scraping 
     - web scraping another way with OpenRefine (1.6)  
-    - http://v.gd/parsing2222 
+    - http://v.gd/parsing2222  
         
 
     HTML
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#12
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#12 
     through
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#19
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#19 
     API & JSON (| HTML)
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#20
-    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#35
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#20 
+    - http://www.johnlittle.info/project/custom/dsvil2017/slides.html#35 
 
      
