@@ -18,6 +18,9 @@
 .Rproj.user/
 *.Rproj
 
+# slides
+slides/*.html
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
