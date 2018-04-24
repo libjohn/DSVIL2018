@@ -69,3 +69,8 @@ Contents
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#19> API & JSON (| HTML)
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#20>
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#35>
+
+Shareable / CC-BY-NC license
+----------------------------
+
+Data, presentation, and handouts are shareable under [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
