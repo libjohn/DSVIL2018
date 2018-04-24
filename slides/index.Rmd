@@ -1,0 +1,32 @@
+---
+title: "Practical Datafication - Outline"
+subtitle: "DSVIL 2018"
+author: "John Little"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css:
+    - default
+    - default-fonts
+    - duke.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+## Outline
+
+- [Introduction](intro_05.html)
+- [Web Scraping](webscraping_10.html)
+- [OpenRefine: Cleaning Basics](openrefine_cleaning_basics_20.html)
+- [OpenRefine: Reconciliation](openrefine_cleaning_reconciliation_30.html)
+- [Twitter Streams and TAGS](twitter_streams_TAGS_40.html)
+- [APIs and Twitter](api_and_twitter_50.html)
+- [Web Scraping, Advanced: Parsing HTML and JSON](parsing_html_json_openrefine_api_60.html)
+- [Parsing: More HTML and JSON](parsing_more_html_json_openrefine_api_70.html)
+
+---
+```{r child = 'footer.Rmd'}
+
+```

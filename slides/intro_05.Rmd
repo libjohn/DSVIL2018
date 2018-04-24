@@ -1,0 +1,68 @@
+---
+title: "Practical Datafication - Introduction"
+subtitle: "DSVIL 2018"
+author: "John Little"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css:
+    - default
+    - default-fonts
+    - duke.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+background-image:  url(https://www.lib.ncsu.edu/sites/default/files/styles/large/public/DSVIL%20Vertical%20Logo_0.jpg)
+
+---
+<style>
+table {
+  white-space: nowrap;
+}
+</style>
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(DT)
+schedule <- tribble(
+  ~Time, ~Topic, 
+  "9a-11:00", "Web Scraping: Gathering Data from Websites", 
+  "11-11:15","Break",
+  "11:15-Noon","OpenRefine: Data Cleaning, Part 1", 
+  "Noon-1","Lunch",
+  "1p-2:30","OpenRefine Data Cleaning, Part 2 & Reconciliation", 
+  "2:30-2:45","Break",
+  "2:45-4:30","Twitter Stream Gathering.  Also More Parsing:  HTML, JSON, APIs"
+)
+
+datatable(schedule, rownames = FALSE, 
+          options = list(dom = 't'))
+```
+
+---
+background-image: url(http://4.bp.blogspot.com/-XXCVJfR7jeU/Uh022FJuDVI/AAAAAAAADQA/3x5Fep2oJhM/s320/Data_Science_VD.png)
+
+
+[Data Science Core Skills](http://www.datasciencecentral.com/profiles/blogs/data-scientist-core-skills) Mitchel Sanders (2013)
+
+---
+
+- Learn by doing
+
+- Pay attention to the data as it's being transformed
+
+- Ask Questions
+
+- Take the workbook tasks back with you
+
+
+---
+class: middle, center
+[Top / Table of Contents](index.html#2)
+---
+```{r child = 'footer.Rmd'}
+
+```

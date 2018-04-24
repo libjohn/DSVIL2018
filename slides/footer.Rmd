@@ -1,0 +1,38 @@
+# John Little
+
+.pull-left[
+### I am ...
+
+- **John Little**
+  - Data Analytics Librarian
+  - https://johnlittle.info/
+  - http://github.com/libjohn
+
+
+#### Your Rfun host...
+**Rfun** is resources for R and data science analytics.  **Rfun** aka [R we having fun yet‽](https://rfun.library.duke.edu/)  resource pages.
+
+]
+
+.pull-right[
+### Duke Univesrity...
+- **Data & Visualization Services**
+- http://library.duke.edu/data/
+- askData@Duke.edu
+- The /Edge, Bostock (1st Floor)
+
+#### Our Workshops
+- [Current Workshops](https://library.duke.edu/data/workshops)
+- [Past Workshops](https://library.duke.edu/data/news/past-workshops)
+- [Guides & Tutorials](https://library.duke.edu/data/tutorials)
+
+]
+
+---
+class: center, middle
+## Shareable under CC BY-NC license 
+
+
+Data, presentation, and handouts are shareable under [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
+
+![This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.](images/cc-by-nc.png "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License")
