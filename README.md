@@ -30,31 +30,27 @@ Preface
 -   index
 -   introduction
 
-### webscraping: w/ webscraper.io
+### Webscraping: w/ webscraper.io
 
 -   webscraping\_10.html
 
-### Data Cleaning: Basic OpenRefine
+### OpenRefine part 1, Data Cleaning, facets, and clustering
 
--   group demo / <https://libjohn.github.io/openrefine/demonstration.html>
--   exercises: <https://libjohn.github.io/openrefine/start.html> (1.1.3 through 1.7)
--   GREL and regex: <https://libjohn.github.io/openrefine/grel.html>
+-   [group demo](https://libjohn.github.io/openrefine/demonstration.html)
+-   Exercise 1: [Basic Transformations](https://libjohn.github.io/openrefine/start.html)
+-   Excercise 2: GREL and regex Exercise 2 [GREL](https://libjohn.github.io/openrefine/grel.html)
 
-### Data Cleaning: Reconcilitation in OpenRefine
+### OpenRefine part 2, Reconcilitation
+
+-   [Reconciliation](https://libjohn.github.io/openrefine/hands-on-reconciliation.html)
 
 ### Twitter Streams with TAGS and GoogleSheets
 
 -   \*\*\* student needs google account
 -   \*\*\* student needs twitter account
 -   \*\*\* student needs twitter API keys ???
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#36> through
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#45>
 
-    -   ***jrl*** add NodeXL <https://www.smrfoundation.org/nodexl/>
-    -   $29/student/month
-    -   <https://www.smrfoundation.org/license/>
-
-### API and twitter:
+### APIs
 
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#47>
 
@@ -69,7 +65,7 @@ Preface
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#12> through
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#19> API & JSON (| HTML)
 -   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#20>
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#35>
+-   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#29>
 
 Shareable / CC-BY-NC license
 ----------------------------

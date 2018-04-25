@@ -60,11 +60,11 @@ class: green
 
 ### Warning:  slow processing for exercise 1.
 
-> Please note, the sample dataset for exercise 1 is large with respect to OpenRefine's default memory allocation.  Using the standard OpenRefine installation, you will likely experience *slow processing* for this exercise.  You can allocate more memory for your OpenRefine instance although this *is not recommended during this training exercise.*  I know slow is painful but your patience will allow you to focuse more fully on the tasks as the data transformations take place.  Later, refer to the official OpenRefine FAQ on [allocating memory](https://github.com/OpenRefine/OpenRefine/wiki/FAQ%3A-Allocate-More-Memory).
+> Please note, the sample dataset for exercise 1 is large with respect to OpenRefine's default memory allocation.  Using the standard OpenRefine installation, you will likely experience *slow processing* for this exercise.  You can allocate more memory for your OpenRefine instance although this *is not recommended during this training exercise.*  I know slow is painful but your patience will allow you to focus more on the data transformations and tasks as they take place.  Later, refer to the official OpenRefine FAQ on [allocating memory](https://github.com/OpenRefine/OpenRefine/wiki/FAQ%3A-Allocate-More-Memory).
 
 ---
 class: middle, center
-[Top / Table of Contents](index.html#3) | [Next: ??? OpenRefine: Reconciliation (Part 2)](openrefine_cleaning_reconciliation_30.html)
+[Top / Table of Contents](index.html#3) | [NEXT OpenRefine: Reconciliation (Part 2)](openrefine_cleaning_reconciliation_30.html)
 
 
 ---

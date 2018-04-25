@@ -3,26 +3,23 @@
 .pull-left[
 ### I am ...
 
-- **John Little**
-  - Data Analytics Librarian
-  - https://johnlittle.info/
-  - http://github.com/libjohn
+**John Little**
+- Data Analytics Librarian
+- https://johnlittle.info/
+- https://github.com/libjohn
 
 
 #### Your Rfun host...
-You can make **Rfun** with our resources for R and data science analytics.  See the **Rfun** *aka* [R we having fun yet‽](https://rfun.library.duke.edu/)  resource pages.
+You can make **Rfun** with our resources for R and data science analytics.  See the [R we having fun yet‽](https://rfun.library.duke.edu/) resource pages.
 
 ]
 
 .pull-right[
 ### Duke Univesrity...
-- **Data & Visualization Services**
-- http://library.duke.edu/data/
+**Data & Visualization Services**
+- https://library.duke.edu/data/
 - askData@Duke.edu
 - The /Edge, Bostock (1st Floor)
-
-#### Our Workshops
-- [Current Workshops](https://library.duke.edu/data/workshops)
 - [Past Workshops](https://library.duke.edu/data/news/past-workshops)
 - [Guides & Tutorials](https://library.duke.edu/data/tutorials)
 

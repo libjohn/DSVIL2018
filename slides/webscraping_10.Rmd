@@ -87,7 +87,7 @@ class: green
 
 ---
 class: middle, center
-[Top / Table of Contents](index.html#3) | [Next: ??? OpenRefine: Basics (Part 1)](openrefine_cleaning_basics_20.html)
+[Top / Table of Contents](index.html#3) | [NEXT OpenRefine: Basics (Part 1)](openrefine_cleaning_basics_20.html)
 
 ---
 ```{r child = 'footer.Rmd'}
