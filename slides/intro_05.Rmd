@@ -1,6 +1,6 @@
 ---
-title: "Practical Datafication - Introduction"
-subtitle: "DSVIL 2018"
+title: "Pragmatic Datafication - DSVIL 2018"
+subtitle: "Introduction"
 author: "John Little"
 date: '`r Sys.Date()`'
 output:
@@ -15,10 +15,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-class: center, middle
-background-image:  url(https://www.lib.ncsu.edu/sites/default/files/styles/large/public/DSVIL%20Vertical%20Logo_0.jpg)
-
----
+class: middle, center
 <style>
 table {
   white-space: nowrap;
@@ -49,6 +46,7 @@ background-image: url(http://4.bp.blogspot.com/-XXCVJfR7jeU/Uh022FJuDVI/AAAAAAAA
 [Data Science Core Skills](http://www.datasciencecentral.com/profiles/blogs/data-scientist-core-skills) Mitchel Sanders (2013)
 
 ---
+class:  middle
 
 - Learn by doing
 
@@ -61,7 +59,8 @@ background-image: url(http://4.bp.blogspot.com/-XXCVJfR7jeU/Uh022FJuDVI/AAAAAAAA
 
 ---
 class: middle, center
-[Top / Table of Contents](index.html#2)
+[Top / Table of Contents](index.html#3) | [Next: Web Scraping](webscraping_10.html)
+
 ---
 ```{r child = 'footer.Rmd'}
 

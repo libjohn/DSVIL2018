@@ -10,7 +10,7 @@
 
 
 #### Your Rfun host...
-**Rfun** is resources for R and data science analytics.  **Rfun** aka [R we having fun yet‽](https://rfun.library.duke.edu/)  resource pages.
+You can make **Rfun** with our resources for R and data science analytics.  See the **Rfun** *aka* [R we having fun yet‽](https://rfun.library.duke.edu/)  resource pages.
 
 ]
 

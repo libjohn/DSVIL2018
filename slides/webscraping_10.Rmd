@@ -1,6 +1,6 @@
 ---
-title: "Practical Datafication - Web Scraping"
-subtitle: "DSVIL 2018"
+title: "Pragmatic Datafication - DSVIL 2018"
+subtitle: "Web Scraping"
 author: "John Little"
 date: '`r Sys.Date()`'
 output:
@@ -15,14 +15,6 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-class: inverse, middle, center
-
-# Crawl
-
-WebScraper.io in Chrome Browser
-
-
----
 class: softblue
 ## Crawl
 
@@ -35,6 +27,17 @@ Moving across or through a website in an attempt to gather data from more than o
 ![sloth](images/crawling_med.jpg)
 
 ]
+
+---
+class: middle, center
+
+For our hands-on and demonstration
+
+# WebScraper.io 
+
+Use the Chrome Browser
+
+
 
 ---
 ## Demonstration
@@ -80,36 +83,11 @@ class: green
     
     - (instructions: http://v.gd/webscraping1111 ) 
     
----
-class: inverse, middle, center
-
-# Scrape & Parse
-
-OpenRefine using "Fetch URL" & "parseHTML"
-
----
-class: softblue
-
-.pull-left[
-
-## Scrape
-
-![scraping propolis](images/Scraping_propolis.jpg) 
-
-Using tools to gather data you can see on a webpage
-
 ]
 
-.pull-right[
-
-## Parse
-
-Analyzing the strings and symbols to reveal only the data you need
-
-
-![strain honey from comb](images/strain_comb.jpg)
-
-]
+---
+class: middle, center
+[Top / Table of Contents](index.html#3) | [Next: ??? OpenRefine: Basics (Part 1)](openrefine_cleaning_basics_20.html)
 
 ---
 ```{r child = 'footer.Rmd'}
