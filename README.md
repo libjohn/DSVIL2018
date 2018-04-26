@@ -1,7 +1,7 @@
 README
 ================
 John Little
-2018-04-25
+2018-04-26
 
 DSVIL2018
 ---------
@@ -38,34 +38,32 @@ Preface
 
 -   [group demo](https://libjohn.github.io/openrefine/demonstration.html)
 -   Exercise 1: [Basic Transformations](https://libjohn.github.io/openrefine/start.html)
--   Excercise 2: GREL and regex Exercise 2 [GREL](https://libjohn.github.io/openrefine/grel.html)
+-   Exercise 2: GREL and regex Exercise 2 [GREL](https://libjohn.github.io/openrefine/grel.html)
 
 ### OpenRefine part 2, Reconcilitation
 
 -   [Reconciliation](https://libjohn.github.io/openrefine/hands-on-reconciliation.html)
 
+-   openrefine\_cleaning\_reconciliation\_30
+
 ### Twitter Streams with TAGS and GoogleSheets
 
--   \*\*\* student needs google account
+-   \*\*\* student needs Google account
 -   \*\*\* student needs twitter account
 -   \*\*\* student needs twitter API keys ???
+-   \*\*\* student needs other API keys? Google developers console | OMDB keys
 
-### APIs
+### APIs & Parsing (JSON)
 
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#47>
+-   api\_50
 
-### Parsing HTML & JSON in OpenRefine (APIs)
+### Parsing HTML
 
--   <https://libjohn.github.io/openrefine/start.html#web-scraping>
--   web scraping another way with OpenRefine (1.6)
+-   parsing\_html\_openrefine\_60
+
+-   <https://libjohn.github.io/openrefine/start.html#web-scraping> /// web scraping another way with OpenRefine (1.7)
+
 -   <http://v.gd/parsing2222>
-
-### HTML
-
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#12> through
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#19> API & JSON (| HTML)
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#20>
--   <http://www.johnlittle.info/project/custom/dsvil2017/slides.html#29>
 
 Shareable / CC-BY-NC license
 ----------------------------
