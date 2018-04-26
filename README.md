@@ -24,14 +24,14 @@ Because data transformations are crazy-fun awesome
 Deets
 -----
 
--   [index](http://www.johnlittle.info/dsvil2018/)
--   [Introduction](http://www.johnlittle.info/dsvil2018/intro_05.html)
--   [Web Scraping](http://www.johnlittle.info/dsvil2018/webscraping_10.html)
--   [OpenRefine: Data Cleaning Basics](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_basics_20.html)
--   [OpenRefine: Reconciliation](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_reconciliation_30.html)
--   [Capturing Twitter Data](http://www.johnlittle.info/dsvil2018/twitter_streams_TAGS_40.html)
--   [APIs & Parsing](http://www.johnlittle.info/dsvil2018/api_50.html)
--   [Advanced Web Scraping: Crawling and Parsing HTML](http://www.johnlittle.info/dsvil2018/parsing_html_openrefine_60.html)
+1.  [Index](http://www.johnlittle.info/dsvil2018/)
+2.  [Introduction](http://www.johnlittle.info/dsvil2018/intro_05.html)
+3.  [Web Scraping](http://www.johnlittle.info/dsvil2018/webscraping_10.html)
+4.  [OpenRefine: Data Cleaning Basics](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_basics_20.html)
+5.  [OpenRefine: Reconciliation](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_reconciliation_30.html)
+6.  [Capturing Twitter Data](http://www.johnlittle.info/dsvil2018/twitter_streams_TAGS_40.html)
+7.  [APIs & Parsing](http://www.johnlittle.info/dsvil2018/api_50.html)
+8.  [Advanced Web Scraping: Crawling and Parsing HTML](http://www.johnlittle.info/dsvil2018/parsing_html_openrefine_60.html)
 
 Shareable / CC-BY-NC license
 ----------------------------
