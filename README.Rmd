@@ -5,8 +5,7 @@ date: "`r Sys.Date()`"
 output: github_document
 ---
 
-## DSVIL2018
-Supporting materials for DSVIL 2018, the Data Science &amp; Visualization Institute hosted by NCSU Libraries. June 6, 2018 https://johnlittle.info/
+Thes are my [slides](http://www.johnlittle.info/dsvil2018/), supporting materials for DSVIL 2018, the Data Science &amp; Visualization Institute hosted by NCSU Libraries. June 6, 2018 
 
 ### Who / What
 
@@ -24,45 +23,16 @@ NCSU Libraries
 
 Because data transformations are crazy-fun awesome
 
-## Preface
+## Deets
 
-- index
-- introduction
-
-### Webscraping:  w/ webscraper.io  
-
-- webscraping_10.html
-
-### OpenRefine part 1, Data Cleaning, facets, and clustering
-
-- [group demo](https://libjohn.github.io/openrefine/demonstration.html) 
-- Exercise 1:  [Basic Transformations](https://libjohn.github.io/openrefine/start.html)
-- Exercise 2: GREL and regex Exercise 2 [GREL](https://libjohn.github.io/openrefine/grel.html)
-
-### OpenRefine part 2, Reconcilitation 
-
-- [Reconciliation](https://libjohn.github.io/openrefine/hands-on-reconciliation.html)
-
-- openrefine_cleaning_reconciliation_30
-
-### Twitter Streams with TAGS and GoogleSheets
-
-- *** student needs Google account
-- *** student needs twitter account
-- *** student needs twitter API keys ???
-- *** student needs other API keys?  Google developers console | OMDB keys
-
-### APIs & Parsing (JSON)
-- api_50
-
-### Parsing HTML 
-
-- parsing_html_openrefine_60
-
-- https://libjohn.github.io/openrefine/start.html#web-scraping /// web scraping another way with OpenRefine (1.7)  
-
-- http://v.gd/parsing2222  
-
+- [index](http://www.johnlittle.info/dsvil2018/)
+- [Introduction](http://www.johnlittle.info/dsvil2018/intro_05.html)
+- [Web Scraping](http://www.johnlittle.info/dsvil2018/webscraping_10.html)
+- [OpenRefine: Data Cleaning Basics](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_basics_20.html)
+- [OpenRefine: Reconciliation](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_reconciliation_30.html)
+- [Capturing Twitter Data](http://www.johnlittle.info/dsvil2018/twitter_streams_TAGS_40.html)
+- [APIs & Parsing ](http://www.johnlittle.info/dsvil2018/api_50.html)
+- [Advanced Web Scraping: Crawling and Parsing  HTML](http://www.johnlittle.info/dsvil2018/parsing_html_openrefine_60.html)
 
 ## Shareable / CC-BY-NC license
 
