@@ -25,7 +25,17 @@ A set of rules and protocols used to build a software application.  In the conte
 
 ![API schematic](images/api.png)
 
+???
 
+```
+  +> Data Request +
+  |               |  
+  |               |  
+my application    +> API  <--> Target Server (application)
+          ^          |
+          |          |
+          +----------+
+```
 ---
 ## Why Use APIs?
 
