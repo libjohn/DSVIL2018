@@ -20,6 +20,7 @@
 
 # slides
 slides/*.html
+slides/libs/*
 
 # produced vignettes
 vignettes/*.html
