@@ -15,6 +15,11 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+class: middle, center
+
+### Scraping = Crawling + Parsing
+
+---
 class: softblue
 ## Crawl
 

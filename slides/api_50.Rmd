@@ -15,9 +15,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-## API
-
-### Application Program Interface 
+## Application Program Interface 
 
 A set of rules and protocols used to build a software application.  In the context of Web Scraping an API is a method used to gather clean data from a website (i.e. data that is not wrapped in HTML, Javascript, bound in HTTP, etc.)
 
@@ -198,7 +196,7 @@ background-image: url(images/keys6a.jpg)
 
 ---
 class: middle, center
-[Top / Table of Contents](index.html#3) | [NEXT Parsing HTML & JSON)](parsing_html_json_openrefine_api_60.html)
+[Top / Table of Contents](index.html#3) | [NEXT Advanced Crawling and Parsing)](parsing_html_openrefine_60.html)
 
 
 ---
