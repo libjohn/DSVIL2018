@@ -1,7 +1,7 @@
 README
 ================
 John Little
-2018-04-26
+2018-04-30
 
 Thes are my [slides](http://www.johnlittle.info/dsvil2018/), supporting materials for DSVIL 2018, the Data Science & Visualization Institute hosted by NCSU Libraries. June 6, 2018
 
