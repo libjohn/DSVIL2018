@@ -1,7 +1,7 @@
 README
 ================
 John Little
-2018-04-30
+2018-05-03
 
 Thes are my [slides](http://www.johnlittle.info/dsvil2018/), supporting materials for DSVIL 2018, the Data Science & Visualization Institute hosted by NCSU Libraries. June 6, 2018
 
@@ -30,8 +30,8 @@ Deets
 4.  [OpenRefine: Data Cleaning Basics](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_basics_20.html)
 5.  [OpenRefine: Reconciliation](http://www.johnlittle.info/dsvil2018/openrefine_cleaning_reconciliation_30.html)
 6.  [Capturing Twitter Data](http://www.johnlittle.info/dsvil2018/twitter_streams_TAGS_40.html)
-7.  [APIs & Parsing](http://www.johnlittle.info/dsvil2018/api_50.html)
-8.  [Advanced Web Scraping: Crawling and Parsing HTML](http://www.johnlittle.info/dsvil2018/parsing_html_openrefine_60.html)
+7.  [APIs & JSON Parsing](http://www.johnlittle.info/dsvil2018/api_50.html)
+8.  [More HTML Parsing](http://www.johnlittle.info/dsvil2018/parsing_html_openrefine_60.html)
 
 Shareable / CC-BY-NC license
 ----------------------------
