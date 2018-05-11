@@ -41,15 +41,11 @@ source_dir <- "slides"
 #dir_copy(here("docs"), here("docs2"))
 
 up_1_dir <- ".."
-dir_workDesktop_funky1 <- "R"
-dir_workDesktop_funky2 <- "github"
 dir_blogdown_target <- "blogdown-libjohn" 
 dir_blogdown_static_target <- "static"
 dir_map_docs_target <- "dsvil2018"
 
 target_dircopy_location <- glue(up_1_dir,
-                                dir_workDesktop_funky1,
-                                dir_workDesktop_funky2,
                                 dir_blogdown_target,
                                 dir_blogdown_static_target,
                                 dir_map_docs_target,
