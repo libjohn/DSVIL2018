@@ -22,8 +22,10 @@ NCSU Libraries
 
 Because data transformations are crazy-fun awesome
 
-Slides -- <https://is.gd/dsvil2018>
------------------------------------
+Slides
+------
+
+<https://is.gd/dsvil2018>
 
 Slides are divided into the following sections
 
