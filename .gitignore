@@ -18,9 +18,9 @@
 .Rproj.user/
 *.Rproj
 
-# slides
-slides/*.html
-slides/libs/*
+# slides  -- changed this b/c netlify.com continuous deploy
+# slides/*.html
+# slides/libs/*
 
 # produced vignettes
 vignettes/*.html
