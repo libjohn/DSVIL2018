@@ -10,7 +10,7 @@ John Little
 [![Netlify
 Status](https://api.netlify.com/api/v1/badges/c7603c22-6759-481c-8882-24bb3a2ce699/deploy-status)](https://app.netlify.com/sites/dsvil/deploys)
 [![See the
-Slides](https://img.shields.io/badge/%3F-See%20the%20slides-informational "See the Slides")](https://dsvil.johnlittle.info/)
+Slides](https://img.shields.io/badge/😎️-See%20the%20slides-informational "See the Slides")](https://dsvil.johnlittle.info/)
 <!-- badges: end -->
 
 Thes are my [slides](http://www.johnlittle.info/dsvil2018/), supporting
